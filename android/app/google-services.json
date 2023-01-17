@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "1092787313725",
+    "project_id": "shopingmall-dkim2022",
+    "storage_bucket": "shopingmall-dkim2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092787313725:android:7b786e160846f6c65f1e54",
+        "android_client_info": {
+          "package_name": "com.example.shoppingmall_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092787313725-6chkfqqjr4csemn8hcsjishmtnv3aaes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAHdBFNBbhio6Bucn8OMME0qLesYK41Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092787313725-6chkfqqjr4csemn8hcsjishmtnv3aaes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092787313725:android:46cc64f55b62ff885f1e54",
+        "android_client_info": {
+          "package_name": "com.example.test_kmallplus_2023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092787313725-6chkfqqjr4csemn8hcsjishmtnv3aaes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAHdBFNBbhio6Bucn8OMME0qLesYK41Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092787313725-6chkfqqjr4csemn8hcsjishmtnv3aaes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092787313725:android:9a5acd510f37fff45f1e54",
+        "android_client_info": {
+          "package_name": "com.example.test_start_dkim230109"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092787313725-6chkfqqjr4csemn8hcsjishmtnv3aaes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAHdBFNBbhio6Bucn8OMME0qLesYK41Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092787313725-6chkfqqjr4csemn8hcsjishmtnv3aaes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
